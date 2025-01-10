@@ -1,5 +1,4 @@
-## Learning for the Phillies
+## Bayesian Learning
 
-* Baseball projection systems (PECOTA, ZiPS, Marcel, Fangraphs, Baseball Savant)
-* Bayesian modeling techniques
-* Minor league / college / HS to major league projection
+* Projection systems (PECOTA, ZiPS, Marcel, Fangraphs, Baseball Savant)
+* Bayesian modeling techniques (PyMC)
